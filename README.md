@@ -34,10 +34,10 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="./profile-summary-cards/output/dracula/3-stats.svg" width="49%" alt="stats" />
-  <img src="./profile-summary-cards/output/dracula/2-most-commit-language.svg" width="49%" alt="linguagens mais usadas" />
-  <img src="./profile-summary-cards/output/dracula/1-repos-per-language.svg" width="49%" alt="repositórios por linguagem" />
-  <img src="./profile-summary-cards/output/dracula/4-productive-time.svg" width="49%" alt="horário mais produtivo" />
+  <img src="./profile-summary-card-output/dracula/3-stats.svg" width="49%" alt="stats" />
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" alt="linguagens mais usadas" />
+  <img src="./profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" alt="repositórios por linguagem" />
+  <img src="./profile-summary-card-output/dracula/4-productive-time.svg" width="49%" alt="horário mais produtivo" />
 </div>
 
 <div align="center">
